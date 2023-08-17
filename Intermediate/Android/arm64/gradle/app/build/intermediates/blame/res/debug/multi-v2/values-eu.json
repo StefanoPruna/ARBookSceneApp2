@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\makem\\.gradle\\caches\\transforms-2\\files-2.1\\6a534bd4c2a0451a33f0ae4b9c59d14c\\jetified-play-services-basement-18.0.0\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "138",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "1572",
+                        "endColumns": "142",
+                        "endOffsets": "1710"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makem\\.gradle\\caches\\transforms-2\\files-2.1\\910fb88e1017d64e5cb0cca4ddf2ac3a\\jetified-play-services-base-18.0.1\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,293,461,581,686,834,955,1075,1179,1353,1457,1616,1740,1890,2046,2108,2169",
+                        "endColumns": "99,167,119,104,147,120,119,103,173,103,158,123,149,155,61,60,87",
+                        "endOffsets": "292,460,580,685,833,954,1074,1178,1352,1456,1615,1739,1889,2045,2107,2168,2256"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "554,658,830,954,1063,1215,1340,1464,1715,1893,2001,2164,2292,2446,2606,2672,2737",
+                        "endColumns": "103,171,123,108,151,124,123,107,177,107,162,127,153,159,65,64,91",
+                        "endOffsets": "653,825,949,1058,1210,1335,1459,1567,1888,1996,2159,2287,2441,2601,2667,2732,2824"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makem\\.gradle\\caches\\transforms-2\\files-2.1\\ccb20ed30836142a5a66c164bb92a0ce\\core-1.2.0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2829",
+                        "endColumns": "100",
+                        "endOffsets": "2925"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makem\\.gradle\\caches\\transforms-2\\files-2.1\\53cbb8309a357fe5d48c5bc2bfcd1126\\jetified-core-1.22.0\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,235,290,428,566",
+                        "endColumns": "44,54,137,137,102",
+                        "endOffsets": "234,289,427,565,668"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,163,305,447",
+                        "endColumns": "48,58,141,141,106",
+                        "endOffsets": "99,158,300,442,549"
+                    }
+                }
+            ]
+        }
+    ]
+}

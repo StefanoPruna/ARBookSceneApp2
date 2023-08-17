@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "Z:\\app\\src\\main\\res\\values-land\\styles.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,159",
+                        "endLines": "3,9",
+                        "endColumns": "96,12",
+                        "endOffsets": "151,426"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,149",
+                        "endLines": "2,7",
+                        "endColumns": "93,12",
+                        "endOffsets": "144,410"
+                    }
+                }
+            ]
+        }
+    ]
+}

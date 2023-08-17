@@ -1,0 +1,1 @@
+../../../ARApp5_1Version/ARApp5_1Version.uproject /Game/Safari -Messaging -SessionId=DE8B98AF4F9C1D15820B0FB0F4433A37 -SessionOwner="makem" -SessionName="Launch On Device"

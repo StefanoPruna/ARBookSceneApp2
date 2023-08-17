@@ -1,0 +1,917 @@
+Begin Object Class=/Script/UMGEditor.WidgetBlueprint Name="ARAppUI"
+   Begin Object Class=/Script/UMG.WidgetTree Name="WidgetTree" Archetype=/Script/UMG.WidgetTree'/Script/UMGEditor.Default__WidgetBlueprint:WidgetTree'
+      Begin Object Class=/Script/UMG.CanvasPanel Name="ROOT"
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.WidgetSwitcher Name="WidgetSwitcher_UI"
+         Begin Object Class=/Script/UMG.WidgetSwitcherSlot Name="WidgetSwitcherSlot_3"
+         End Object
+         Begin Object Class=/Script/UMG.WidgetSwitcherSlot Name="WidgetSwitcherSlot_0"
+         End Object
+         Begin Object Class=/Script/UMG.WidgetSwitcherSlot Name="WidgetSwitcherSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.CanvasPanel Name="FirstPage"
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_34"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_17"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_23"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_18"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Image_0"
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_178"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_0"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_894"
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_2"
+      End Object
+      Begin Object Class=/Script/UMG.Button Name="StartBtn"
+         Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_1025"
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_151"
+      End Object
+      Begin Object Class=/Script/UMG.CanvasPanel Name="SecondPage"
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_24"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_0"
+         Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_171"
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border_73"
+         Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_108"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Button Name="MenuBtn"
+         Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_1"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_1"
+      End Object
+      Begin Object Class=/Script/UMG.Button Name="LibBtn"
+         Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock"
+      End Object
+      Begin Object Class=/Script/UMG.CanvasPanel Name="LibaryPage"
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_0"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_19"
+         End Object
+         Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_2"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Border Name="Border"
+      End Object
+      Begin Object Class=/Script/UMG.ScrollBox Name="ScrollBox_112"
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_0"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_1"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_2"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_3"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_4"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_5"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_6"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_7"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_8"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_9"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_10"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_11"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_12"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_13"
+         End Object
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_14"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="header"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Croc"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Croc_d"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Ze"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Ze_d"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="ele"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="ele_d"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="hip"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="hip_1"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Lion"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Lion_1"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Lion_2"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Lion_3"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Rhino"
+      End Object
+      Begin Object Class=/Script/UMG.Image Name="Rhino_1"
+      End Object
+      Begin Object Class=/Script/UMG.Button Name="BackBtn"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_Event Name="K2Node_Event_0"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_Event Name="K2Node_Event_1"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_Event Name="K2Node_Event_2"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_ComponentBoundEvent Name="K2Node_ComponentBoundEvent_7"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_ComponentBoundEvent Name="K2Node_ComponentBoundEvent_5"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_ComponentBoundEvent Name="K2Node_ComponentBoundEvent_2"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_ComponentBoundEvent Name="K2Node_ComponentBoundEvent_6"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_VariableGet Name="K2Node_VariableGet_0"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_2"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_0"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_VariableGet Name="K2Node_VariableGet_4"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_3"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_VariableGet Name="K2Node_VariableGet_3"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_1"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_VariableGet Name="K2Node_VariableGet_2"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="BndEvt__ARAppUI_LibBtn_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="BndEvt__ARAppUI_MenuBtn_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="BndEvt__ARAppUI_BackBtn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="BndEvt__ARAppUI_StartBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+      Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_0"
+      End Object
+   End Object
+   Begin Object Name="WidgetTree"
+      Begin Object Name="ROOT"
+         Begin Object Name="CanvasPanelSlot_0"
+            LayoutData=(Offsets=(Right=0.000000,Bottom=0.000000),Anchors=(Maximum=(X=1.000000,Y=1.000000)))
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.ROOT"'
+            Content=/Script/UMG.WidgetSwitcher'"ARAppUI:WidgetTree.WidgetSwitcher_UI"'
+         End Object
+         Slots(0)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="ROOT"
+      End Object
+      Begin Object Name="WidgetSwitcher_UI"
+         Begin Object Name="WidgetSwitcherSlot_3"
+            Parent=/Script/UMG.WidgetSwitcher'"ARAppUI:WidgetTree.WidgetSwitcher_UI"'
+            Content=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.FirstPage"'
+         End Object
+         Begin Object Name="WidgetSwitcherSlot_0"
+            Parent=/Script/UMG.WidgetSwitcher'"ARAppUI:WidgetTree.WidgetSwitcher_UI"'
+            Content=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.SecondPage"'
+         End Object
+         Begin Object Name="WidgetSwitcherSlot_2"
+            Parent=/Script/UMG.WidgetSwitcher'"ARAppUI:WidgetTree.WidgetSwitcher_UI"'
+            Content=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.LibaryPage"'
+         End Object
+         Slots(0)=/Script/UMG.WidgetSwitcherSlot'"WidgetSwitcherSlot_3"'
+         Slots(1)=/Script/UMG.WidgetSwitcherSlot'"WidgetSwitcherSlot_0"'
+         Slots(2)=/Script/UMG.WidgetSwitcherSlot'"WidgetSwitcherSlot_2"'
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.ROOT.CanvasPanelSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="WidgetSwitcher_UI"
+      End Object
+      Begin Object Name="FirstPage"
+         Begin Object Name="CanvasPanelSlot_34"
+            LayoutData=(Offsets=(Left=340.000000,Top=-108.000000,Right=328.000000,Bottom=714.000000),Anchors=(Maximum=(X=1.000000,Y=0.000000)))
+            ZOrder=2
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.FirstPage"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Image_0"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_17"
+            LayoutData=(Offsets=(Left=-8.000000,Top=-48.000000,Right=-4.000000,Bottom=250.000000),Anchors=(Minimum=(X=0.000000,Y=0.500000),Maximum=(X=1.000000,Y=0.500000)))
+            bAutoSize=True
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.FirstPage"'
+            Content=/Script/UMG.VerticalBox'"ARAppUI:WidgetTree.VerticalBox_178"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_23"
+            LayoutData=(Offsets=(Left=-236.000000,Top=-176.000000,Right=460.000000,Bottom=168.000000),Anchors=(Minimum=(X=0.500000,Y=1.000000),Maximum=(X=0.500000,Y=1.000000)))
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.FirstPage"'
+            Content=/Script/UMG.Button'"ARAppUI:WidgetTree.StartBtn"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_18"
+            LayoutData=(Offsets=(Right=0.000000,Bottom=0.000000),Anchors=(Maximum=(X=1.000000,Y=1.000000)))
+            ZOrder=-1
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.FirstPage"'
+            Content=/Script/UMG.Border'"ARAppUI:WidgetTree.Border_151"'
+         End Object
+         Slots(0)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_34"'
+         Slots(1)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_17"'
+         Slots(2)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_23"'
+         Slots(3)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_18"'
+         Slot=/Script/UMG.WidgetSwitcherSlot'"ARAppUI:WidgetTree.WidgetSwitcher_UI.WidgetSwitcherSlot_3"'
+         bExpandedInDesigner=True
+         DisplayLabel="FirstPage"
+      End Object
+      Begin Object Name="Image_0"
+         Brush=(ImageSize=(X=4.033461,Y=28.131106),TintColor=(SpecifiedColor=(R=0.192708,G=1.000000,B=0.959463,A=1.000000)),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/LOGOGLOW.LOGOGLOW"')
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.FirstPage.CanvasPanelSlot_34"'
+         bIsVariable=False
+      End Object
+      Begin Object Name="VerticalBox_178"
+         Begin Object Name="VerticalBoxSlot_0"
+            HorizontalAlignment=HAlign_Center
+            VerticalAlignment=VAlign_Center
+            Parent=/Script/UMG.VerticalBox'"ARAppUI:WidgetTree.VerticalBox_178"'
+            Content=/Script/UMG.TextBlock'"ARAppUI:WidgetTree.TextBlock_894"'
+         End Object
+         Begin Object Name="VerticalBoxSlot_1"
+            HorizontalAlignment=HAlign_Center
+            VerticalAlignment=VAlign_Center
+            Parent=/Script/UMG.VerticalBox'"ARAppUI:WidgetTree.VerticalBox_178"'
+            Content=/Script/UMG.TextBlock'"ARAppUI:WidgetTree.TextBlock_2"'
+         End Object
+         Slots(0)=/Script/UMG.VerticalBoxSlot'"VerticalBoxSlot_0"'
+         Slots(1)=/Script/UMG.VerticalBoxSlot'"VerticalBoxSlot_1"'
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.FirstPage.CanvasPanelSlot_17"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="TextBlock_894"
+         Text=NSLOCTEXT("[3216514D4DC9198A48259BAA2D261714]", "47C483AD49BCC1F14ABBF5A03824314F", "Stories of mysterious animals will unfold in AR !")
+         Font=(OutlineSettings=(OutlineSize=3,OutlineColor=(R=0.188569,G=0.605138,B=1.000000,A=1.000000)),Size=38)
+         Justification=Center
+         AutoWrapText=True
+         Slot=/Script/UMG.VerticalBoxSlot'"ARAppUI:WidgetTree.VerticalBox_178.VerticalBoxSlot_0"'
+      End Object
+      Begin Object Name="TextBlock_2"
+         Text=NSLOCTEXT("[3216514D4DC9198A48259BAA2D261714]", "07DBC59F40F05BC9DB6D45B2D2A10056", "Safari Edition")
+         Font=(OutlineSettings=(OutlineSize=3,OutlineColor=(R=1.000000,G=0.317708,B=0.984890,A=1.000000)),Size=38)
+         TextTransformPolicy=ToUpper
+         Justification=Center
+         Slot=/Script/UMG.VerticalBoxSlot'"ARAppUI:WidgetTree.VerticalBox_178.VerticalBoxSlot_1"'
+      End Object
+      Begin Object Name="StartBtn"
+         Begin Object Name="ButtonSlot_2"
+            Parent=/Script/UMG.Button'"ARAppUI:WidgetTree.StartBtn"'
+            Content=/Script/UMG.TextBlock'"ARAppUI:WidgetTree.TextBlock_1025"'
+         End Object
+         WidgetStyle=(Normal=(DrawAs=Image,ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/Button/Button18.Button18"'),Hovered=(ImageSize=(X=308.000000,Y=87.000000)),Pressed=(ImageSize=(X=308.000000,Y=87.000000)))
+         Slots(0)=/Script/UMG.ButtonSlot'"ButtonSlot_2"'
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.FirstPage.CanvasPanelSlot_23"'
+         bExpandedInDesigner=True
+         DisplayLabel="StartBtn"
+      End Object
+      Begin Object Name="TextBlock_1025"
+         Text=NSLOCTEXT("[3216514D4DC9198A48259BAA2D261714]", "FB02705F4141DC56EBF173828B23915E", "Get Start !")
+         Font=(Size=50)
+         Slot=/Script/UMG.ButtonSlot'"ARAppUI:WidgetTree.StartBtn.ButtonSlot_2"'
+      End Object
+      Begin Object Name="Border_151"
+         Background=(ImageSize=(X=2800.000000,Y=2000.000000),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/8020333.8020333"')
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.FirstPage.CanvasPanelSlot_18"'
+      End Object
+      Begin Object Name="SecondPage"
+         Begin Object Name="CanvasPanelSlot_24"
+            LayoutData=(Offsets=(Left=8.000000,Top=4.000000,Right=-6.666672,Bottom=117.333336),Anchors=(Maximum=(X=1.000000,Y=0.000000)))
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.SecondPage"'
+            Content=/Script/UMG.Border'"ARAppUI:WidgetTree.Border_0"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_0"
+            LayoutData=(Offsets=(Left=4.000000,Top=-125.333344,Right=2.666626,Bottom=123.333344),Anchors=(Minimum=(X=0.000000,Y=1.000000),Maximum=(X=1.000000,Y=1.000000)))
+            ZOrder=-1
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.SecondPage"'
+            Content=/Script/UMG.Border'"ARAppUI:WidgetTree.Border_73"'
+         End Object
+         Slots(0)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_24"'
+         Slots(1)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_0"'
+         Slot=/Script/UMG.WidgetSwitcherSlot'"ARAppUI:WidgetTree.WidgetSwitcher_UI.WidgetSwitcherSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="SecondPage"
+      End Object
+      Begin Object Name="Border_0"
+         Begin Object Name="BorderSlot_1"
+            Parent=/Script/UMG.Border'"ARAppUI:WidgetTree.Border_0"'
+            Content=/Script/UMG.TextBlock'"ARAppUI:WidgetTree.TextBlock_171"'
+         End Object
+         Background=(ImageSize=(X=2800.000000,Y=2000.000000),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/8020333.8020333"')
+         Slots(0)=/Script/UMG.BorderSlot'"BorderSlot_1"'
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.SecondPage.CanvasPanelSlot_24"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="TextBlock_171"
+         Text=NSLOCTEXT("[3216514D4DC9198A48259BAA2D261714]", "AB85223541A19261435C4D88B0FC60E7", "BOOK SCENE AR")
+         Font=(OutlineSettings=(OutlineSize=5,OutlineColor=(R=0.066984,G=0.348958,B=0.043274,A=1.000000)),Size=64)
+         Justification=Center
+         Slot=/Script/UMG.BorderSlot'"ARAppUI:WidgetTree.Border_0.BorderSlot_1"'
+         DisplayLabel="TextBlock_171"
+      End Object
+      Begin Object Name="Border_73"
+         Begin Object Name="BorderSlot_1"
+            Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+            Parent=/Script/UMG.Border'"ARAppUI:WidgetTree.Border_73"'
+            Content=/Script/UMG.HorizontalBox'"ARAppUI:WidgetTree.HorizontalBox_108"'
+         End Object
+         Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+         Background=(ImageSize=(X=2800.000000,Y=2000.000000),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/8020333.8020333"')
+         Slots(0)=/Script/UMG.BorderSlot'"BorderSlot_1"'
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.SecondPage.CanvasPanelSlot_0"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_108"
+         Begin Object Name="HorizontalBoxSlot_0"
+            Size=(SizeRule=Fill)
+            Parent=/Script/UMG.HorizontalBox'"ARAppUI:WidgetTree.HorizontalBox_108"'
+            Content=/Script/UMG.Button'"ARAppUI:WidgetTree.MenuBtn"'
+         End Object
+         Begin Object Name="HorizontalBoxSlot_1"
+            Size=(SizeRule=Fill)
+            Parent=/Script/UMG.HorizontalBox'"ARAppUI:WidgetTree.HorizontalBox_108"'
+            Content=/Script/UMG.Button'"ARAppUI:WidgetTree.LibBtn"'
+         End Object
+         Slots(0)=/Script/UMG.HorizontalBoxSlot'"HorizontalBoxSlot_0"'
+         Slots(1)=/Script/UMG.HorizontalBoxSlot'"HorizontalBoxSlot_1"'
+         Slot=/Script/UMG.BorderSlot'"ARAppUI:WidgetTree.Border_73.BorderSlot_1"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="MenuBtn"
+         Begin Object Name="ButtonSlot_1"
+            Parent=/Script/UMG.Button'"ARAppUI:WidgetTree.MenuBtn"'
+            Content=/Script/UMG.TextBlock'"ARAppUI:WidgetTree.TextBlock_1"'
+         End Object
+         WidgetStyle=(Normal=(ImageSize=(X=250.000000,Y=87.000000),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/Button/Button18.Button18"'),Pressed=(ImageSize=(X=124.000000,Y=116.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+         BackgroundColor=(R=1.000000,G=0.663426,B=0.000000,A=1.000000)
+         Slots(0)=/Script/UMG.ButtonSlot'"ButtonSlot_1"'
+         Slot=/Script/UMG.HorizontalBoxSlot'"ARAppUI:WidgetTree.HorizontalBox_108.HorizontalBoxSlot_0"'
+         bExpandedInDesigner=True
+         DisplayLabel="MenuBtn"
+      End Object
+      Begin Object Name="TextBlock_1"
+         Text=NSLOCTEXT("[3216514D4DC9198A48259BAA2D261714]", "3CE8F14945960CCF9BDED1A08D0DAB36", "Menu")
+         Font=(Size=40)
+         Slot=/Script/UMG.ButtonSlot'"ARAppUI:WidgetTree.MenuBtn.ButtonSlot_1"'
+         DisplayLabel="TextBlock_1"
+      End Object
+      Begin Object Name="LibBtn"
+         Begin Object Name="ButtonSlot_0"
+            Parent=/Script/UMG.Button'"ARAppUI:WidgetTree.LibBtn"'
+            Content=/Script/UMG.TextBlock'"ARAppUI:WidgetTree.TextBlock"'
+         End Object
+         WidgetStyle=(Normal=(ImageSize=(X=250.000000,Y=87.000000),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/Button/Button18.Button18"'),Hovered=(ImageSize=(X=124.000000,Y=116.000000)),Pressed=(ImageSize=(X=124.000000,Y=116.000000)))
+         BackgroundColor=(R=1.000000,G=0.663426,B=0.000000,A=1.000000)
+         Slots(0)=/Script/UMG.ButtonSlot'"ButtonSlot_0"'
+         Slot=/Script/UMG.HorizontalBoxSlot'"ARAppUI:WidgetTree.HorizontalBox_108.HorizontalBoxSlot_1"'
+         bExpandedInDesigner=True
+         DisplayLabel="LibBtn"
+      End Object
+      Begin Object Name="TextBlock"
+         Text=NSLOCTEXT("[3216514D4DC9198A48259BAA2D261714]", "B1CD364945B1BF0795356192F1DAD1CC", "Libary")
+         Font=(Size=40)
+         Slot=/Script/UMG.ButtonSlot'"ARAppUI:WidgetTree.LibBtn.ButtonSlot_0"'
+         DisplayLabel="TextBlock"
+      End Object
+      Begin Object Name="LibaryPage"
+         Begin Object Name="CanvasPanelSlot_0"
+            LayoutData=(Offsets=(Right=0.000000,Bottom=0.000000),Anchors=(Maximum=(X=1.000000,Y=1.000000)))
+            ZOrder=-1
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.LibaryPage"'
+            Content=/Script/UMG.Border'"ARAppUI:WidgetTree.Border"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_19"
+            LayoutData=(Offsets=(Top=12.000000,Right=8.750000,Bottom=174.000000),Anchors=(Maximum=(X=1.000000,Y=1.000000)))
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.LibaryPage"'
+            Content=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+         End Object
+         Begin Object Name="CanvasPanelSlot_2"
+            LayoutData=(Offsets=(Left=4.000000,Top=-180.000000,Right=215.276245,Bottom=174.184189),Anchors=(Minimum=(X=0.000000,Y=1.000000),Maximum=(X=0.000000,Y=1.000000)))
+            Parent=/Script/UMG.CanvasPanel'"ARAppUI:WidgetTree.LibaryPage"'
+            Content=/Script/UMG.Button'"ARAppUI:WidgetTree.BackBtn"'
+         End Object
+         Slots(0)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_0"'
+         Slots(1)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_19"'
+         Slots(2)=/Script/UMG.CanvasPanelSlot'"CanvasPanelSlot_2"'
+         Slot=/Script/UMG.WidgetSwitcherSlot'"ARAppUI:WidgetTree.WidgetSwitcher_UI.WidgetSwitcherSlot_2"'
+         bExpandedInDesigner=True
+         DisplayLabel="LibaryPage"
+      End Object
+      Begin Object Name="Border"
+         Background=(ImageSize=(X=2800.000000,Y=2000.000000),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/8020333.8020333"')
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.LibaryPage.CanvasPanelSlot_0"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="ScrollBox_112"
+         Begin Object Name="ScrollBoxSlot_0"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.header"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_1"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Croc"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_2"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Croc_d"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_3"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Ze"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_4"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Ze_d"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_5"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.ele"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_6"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.ele_d"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_7"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.hip"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_8"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.hip_1"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_9"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Lion"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_10"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Lion_1"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_11"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Lion_2"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_12"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Lion_3"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_13"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Rhino"'
+         End Object
+         Begin Object Name="ScrollBoxSlot_14"
+            Parent=/Script/UMG.ScrollBox'"ARAppUI:WidgetTree.ScrollBox_112"'
+            Content=/Script/UMG.Image'"ARAppUI:WidgetTree.Rhino_1"'
+         End Object
+         WidgetBarStyle=(Thickness=20.000000)
+         AlwaysShowScrollbar=True
+         AlwaysShowScrollbarTrack=True
+         Slots(0)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_0"'
+         Slots(1)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_1"'
+         Slots(2)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_2"'
+         Slots(3)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_3"'
+         Slots(4)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_4"'
+         Slots(5)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_5"'
+         Slots(6)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_6"'
+         Slots(7)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_7"'
+         Slots(8)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_8"'
+         Slots(9)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_9"'
+         Slots(10)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_10"'
+         Slots(11)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_11"'
+         Slots(12)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_12"'
+         Slots(13)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_13"'
+         Slots(14)=/Script/UMG.ScrollBoxSlot'"ScrollBoxSlot_14"'
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.LibaryPage.CanvasPanelSlot_19"'
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="header"
+         Brush=(ImageSize=(X=1100.000000,Y=623.000000),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/BookPage.BookPage"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_0"'
+         DisplayLabel="header"
+      End Object
+      Begin Object Name="Croc"
+         Brush=(ImageSize=(X=1261.754277,Y=645.650839),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/Crocodile.Crocodile"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_1"'
+         DisplayLabel="Croc"
+      End Object
+      Begin Object Name="Croc_d"
+         Brush=(ImageSize=(X=1395.635723,Y=765.928718),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/CrocodileDescription.CrocodileDescription"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_2"'
+         DisplayLabel="Croc_d"
+      End Object
+      Begin Object Name="Ze"
+         Brush=(ImageSize=(X=1122.260613,Y=727.130510),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/Zebra.Zebra"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_3"'
+         DisplayLabel="Ze"
+      End Object
+      Begin Object Name="Ze_d"
+         Brush=(ImageSize=(X=1349.904718,Y=648.428620),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/ZebraDescription.ZebraDescription"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_4"'
+         DisplayLabel="Ze_d"
+      End Object
+      Begin Object Name="ele"
+         Brush=(ImageSize=(X=1177.521102,Y=642.552220),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/Elephant.Elephant"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_5"'
+         DisplayLabel="ele"
+      End Object
+      Begin Object Name="ele_d"
+         Brush=(ImageSize=(X=1138.835955,Y=758.503712),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/ElephantDescription.ElephantDescription"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_6"'
+         DisplayLabel="ele_d"
+      End Object
+      Begin Object Name="hip"
+         Brush=(ImageSize=(X=1104.144749,Y=608.940899),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/Hippo.Hippo"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_7"'
+         DisplayLabel="hip"
+      End Object
+      Begin Object Name="hip_1"
+         Brush=(ImageSize=(X=1237.459179,Y=657.275039),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/HippopotamusDescription.HippopotamusDescription"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_8"'
+         DisplayLabel="hip_1"
+      End Object
+      Begin Object Name="Lion"
+         Brush=(ImageSize=(X=1143.827901,Y=747.796342),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/Lion.Lion"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_9"'
+         DisplayLabel="Lion"
+      End Object
+      Begin Object Name="Lion_1"
+         Brush=(ImageSize=(X=1192.133245,Y=954.510178),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/LionDescription.LionDescription"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_10"'
+         DisplayLabel="Lion_1"
+      End Object
+      Begin Object Name="Lion_2"
+         Brush=(ImageSize=(X=1244.522960,Y=643.281658),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/Lioness.Lioness"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_11"'
+         DisplayLabel="Lion_2"
+      End Object
+      Begin Object Name="Lion_3"
+         Brush=(ImageSize=(X=1199.525275,Y=716.447877),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/LionessDescription.LionessDescription"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_12"'
+         DisplayLabel="Lion_3"
+      End Object
+      Begin Object Name="Rhino"
+         Brush=(ImageSize=(X=1210.029532,Y=603.953469),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/Rhino.Rhino"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_13"'
+         DisplayLabel="Rhino"
+      End Object
+      Begin Object Name="Rhino_1"
+         Brush=(ImageSize=(X=1125.588903,Y=628.946441),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/BookPages/RhinocerosDescription.RhinocerosDescription"')
+         Slot=/Script/UMG.ScrollBoxSlot'"ARAppUI:WidgetTree.ScrollBox_112.ScrollBoxSlot_14"'
+         DisplayLabel="Rhino_1"
+      End Object
+      Begin Object Name="BackBtn"
+         WidgetStyle=(Normal=(TintColor=(SpecifiedColor=(R=1.000000,G=1.000000,B=1.000000,A=1.000000)),ResourceObject=/Script/Engine.Texture2D'"/Game/Kamonwan/Image/Button/Icon58.Icon58"'))
+         Slot=/Script/UMG.CanvasPanelSlot'"ARAppUI:WidgetTree.LibaryPage.CanvasPanelSlot_2"'
+         DisplayLabel="BackBtn"
+      End Object
+      RootWidget=/Script/UMG.CanvasPanel'"ROOT"'
+   End Object
+   Begin Object Name="EventGraph"
+      Begin Object Name="K2Node_Event_0"
+         EventReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"',MemberName="PreConstruct")
+         bOverrideFunction=True
+         EnabledState=Disabled
+         bCommentBubblePinned=True
+         bCommentBubbleVisible=True
+         NodeComment="This node is disabled and will not be called.\nDrag off pins to build functionality."
+         NodeGuid=65DF0193495B88E451BE579E4B3F7C36
+         CustomProperties Pin (PinId=F69C121F41C28393F6F1E790706E41B4,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"',MemberName="PreConstruct"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=0C583E884495E0B8020114BC54B728EE,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=3133DC934624AEE5EC2048ADAACCD468,PinName="IsDesignTime",PinToolTip="Is Design Time\nBoolean",Direction="EGPD_Output",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="false",AutogeneratedDefaultValue="false",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_Event_1"
+         EventReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"',MemberName="Construct")
+         bOverrideFunction=True
+         NodePosY=208
+         EnabledState=Disabled
+         bCommentBubblePinned=True
+         bCommentBubbleVisible=True
+         NodeComment="This node is disabled and will not be called.\nDrag off pins to build functionality."
+         NodeGuid=E44ACA724D7D1E9B1129AAA5BE1960B9
+         CustomProperties Pin (PinId=ED12C7D146D99F1701F80688306D7BE7,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"',MemberName="Construct"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=67F2231145DC3A0B75DCE88D0369966B,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_Event_2"
+         EventReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"',MemberName="Tick")
+         bOverrideFunction=True
+         NodePosY=416
+         EnabledState=Disabled
+         bCommentBubblePinned=True
+         bCommentBubbleVisible=True
+         NodeComment="This node is disabled and will not be called.\nDrag off pins to build functionality."
+         NodeGuid=9E86F0DD4B1B230FE8129985AA972721
+         CustomProperties Pin (PinId=5A9CA34F472F5DB0D64373B40207E237,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"',MemberName="Tick"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=B7713D5D47F8D8F5C9F2678152ABCC9B,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=218E4F8C46D4AD9F33F342823AAA5729,PinName="MyGeometry",PinToolTip="My Geometry\nGeometry Structure\n\nThe space allotted for this widget",Direction="EGPD_Output",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.ScriptStruct'"/Script/SlateCore.Geometry"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=8176FF9D47ED74FAFE9E42804465EE49,PinName="InDeltaTime",PinToolTip="In Delta Time\nFloat (single-precision)\n\nReal time passed since last tick",Direction="EGPD_Output",PinType.PinCategory="real",PinType.PinSubCategory="float",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="0.0",AutogeneratedDefaultValue="0.0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_ComponentBoundEvent_7"
+         DelegatePropertyName="OnClicked"
+         DelegateOwnerClass=/Script/CoreUObject.Class'"/Script/UMG.Button"'
+         ComponentPropertyName="StartBtn"
+         EventReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         bInternalEvent=True
+         CustomFunctionName="BndEvt__ARAppUI_StartBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature"
+         NodePosX=16
+         NodePosY=560
+         NodeGuid=DC8F642A4183675F330E5C9150BDCDDD
+         CustomProperties Pin (PinId=CAD12E77438DBFF35E2B1390CE51EB9D,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',MemberName="BndEvt__ARAppUI_StartBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=ED66DBB0405F30393102989F08106947,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_2 4A98958F4154EED18917F487702D1DA6,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_ComponentBoundEvent_5"
+         DelegatePropertyName="OnClicked"
+         DelegateOwnerClass=/Script/CoreUObject.Class'"/Script/UMG.Button"'
+         ComponentPropertyName="BackBtn"
+         EventReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         bInternalEvent=True
+         CustomFunctionName="BndEvt__ARAppUI_BackBtn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature"
+         NodePosX=-32
+         NodePosY=1024
+         NodeGuid=B8C00F9A4927619347035B86D65BDFE9
+         CustomProperties Pin (PinId=C738CDF0431BBEA49101B9A37CED33B1,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',MemberName="BndEvt__ARAppUI_BackBtn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=FE379C784932EBD00AF71B8709A93ED5,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_1 4A98958F4154EED18917F487702D1DA6,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_ComponentBoundEvent_2"
+         DelegatePropertyName="OnClicked"
+         DelegateOwnerClass=/Script/CoreUObject.Class'"/Script/UMG.Button"'
+         ComponentPropertyName="MenuBtn"
+         EventReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         bInternalEvent=True
+         CustomFunctionName="BndEvt__ARAppUI_MenuBtn_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature"
+         NodePosY=816
+         NodeGuid=3005D0E54686194B2B6A5FAE603ADF9D
+         CustomProperties Pin (PinId=775E57B24229B027C82FFCB8091DF7BA,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',MemberName="BndEvt__ARAppUI_MenuBtn_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=1B8C0B4D494149E350546FB3989B4339,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_3 4A98958F4154EED18917F487702D1DA6,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_ComponentBoundEvent_6"
+         DelegatePropertyName="OnClicked"
+         DelegateOwnerClass=/Script/CoreUObject.Class'"/Script/UMG.Button"'
+         ComponentPropertyName="LibBtn"
+         EventReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         bInternalEvent=True
+         CustomFunctionName="BndEvt__ARAppUI_LibBtn_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature"
+         NodePosX=16
+         NodePosY=1360
+         NodeGuid=67F58E574E61EF0965839AB3D98C8521
+         CustomProperties Pin (PinId=13B3BFB94AF94D3E150F39A448B258C6,PinName="OutputDelegate",Direction="EGPD_Output",PinType.PinCategory="delegate",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(MemberParent=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',MemberName="BndEvt__ARAppUI_LibBtn_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature"),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=F70D68864F18AE1272F1618852CC796F,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_0 4A98958F4154EED18917F487702D1DA6,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_VariableGet_0"
+         VariableReference=(MemberName="WidgetSwitcher_UI",bSelfContext=True)
+         NodePosX=368
+         NodePosY=688
+         NodeGuid=C13E3FE64FC13286AE6DE194B2800C8A
+         CustomProperties Pin (PinId=460074A043522611572040BFF09F085E,PinName="WidgetSwitcher_UI",Direction="EGPD_Output",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_2 83B64A6D400F8CF52983F2BA8DF98E31,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=B5F3DF3744D3D2DCA67754AF5BDC0E0D,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=True,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_2"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',MemberName="SetActiveWidgetIndex")
+         NodePosX=544
+         NodePosY=512
+         NodeGuid=58FFAEEA45C9BD7BE5205986AB5CDB61
+         CustomProperties Pin (PinId=4A98958F4154EED18917F487702D1DA6,PinName="execute",PinToolTip="\nExec",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_ComponentBoundEvent_7 ED66DBB0405F30393102989F08106947,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=14ECBFD242A0800BB243F386EE80A231,PinName="then",PinToolTip="\nExec",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=83B64A6D400F8CF52983F2BA8DF98E31,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinToolTip="Target\nWidget Switcher Object Reference",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_VariableGet_0 460074A043522611572040BFF09F085E,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=0E51494B4C96D9E0F22236B0B2DEA512,PinName="Index",PinToolTip="Index\nInteger",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="1",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_0"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',MemberName="SetActiveWidgetIndex")
+         NodePosX=480
+         NodePosY=1312
+         NodeGuid=A23378314C8AAEE1AA48229BC165C8C9
+         CustomProperties Pin (PinId=4A98958F4154EED18917F487702D1DA6,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_ComponentBoundEvent_6 F70D68864F18AE1272F1618852CC796F,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=14ECBFD242A0800BB243F386EE80A231,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=83B64A6D400F8CF52983F2BA8DF98E31,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_VariableGet_4 3678E0EA4DA64E7205F50B902FB859B2,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=0E51494B4C96D9E0F22236B0B2DEA512,PinName="Index",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="2",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_VariableGet_4"
+         VariableReference=(MemberName="WidgetSwitcher_UI",bSelfContext=True)
+         NodePosX=272
+         NodePosY=1472
+         NodeGuid=2ED1B9CF4D80398E665F7A8092E36930
+         CustomProperties Pin (PinId=3678E0EA4DA64E7205F50B902FB859B2,PinName="WidgetSwitcher_UI",Direction="EGPD_Output",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_0 83B64A6D400F8CF52983F2BA8DF98E31,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=126E51E9470044FF9F8BD295BCD498CF,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=True,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_3"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',MemberName="SetActiveWidgetIndex")
+         NodePosX=480
+         NodePosY=800
+         NodeGuid=0748C9FB40B1B99428F040B250FB8AD3
+         CustomProperties Pin (PinId=4A98958F4154EED18917F487702D1DA6,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_ComponentBoundEvent_2 1B8C0B4D494149E350546FB3989B4339,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=14ECBFD242A0800BB243F386EE80A231,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=83B64A6D400F8CF52983F2BA8DF98E31,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_VariableGet_3 674155244901FF7AF60C38BEAA18B6F0,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=0E51494B4C96D9E0F22236B0B2DEA512,PinName="Index",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="0",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_VariableGet_3"
+         VariableReference=(MemberName="WidgetSwitcher_UI",bSelfContext=True)
+         NodePosX=256
+         NodePosY=944
+         NodeGuid=326AC1AC4FA577458A8D349A49E749A3
+         CustomProperties Pin (PinId=674155244901FF7AF60C38BEAA18B6F0,PinName="WidgetSwitcher_UI",Direction="EGPD_Output",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_3 83B64A6D400F8CF52983F2BA8DF98E31,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=11355BCC4172B64EEA7784B3641F6634,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=True,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_1"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',MemberName="SetActiveWidgetIndex")
+         NodePosX=448
+         NodePosY=1008
+         NodeGuid=9C5B835345D396087B512396A62A83D4
+         CustomProperties Pin (PinId=4A98958F4154EED18917F487702D1DA6,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_ComponentBoundEvent_5 FE379C784932EBD00AF71B8709A93ED5,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=14ECBFD242A0800BB243F386EE80A231,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=83B64A6D400F8CF52983F2BA8DF98E31,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_VariableGet_2 674155244901FF7AF60C38BEAA18B6F0,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=0E51494B4C96D9E0F22236B0B2DEA512,PinName="Index",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="0",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_VariableGet_2"
+         VariableReference=(MemberName="WidgetSwitcher_UI",bSelfContext=True)
+         NodePosX=224
+         NodePosY=1152
+         NodeGuid=D716ED21409360F5117F04A413B36E00
+         CustomProperties Pin (PinId=674155244901FF7AF60C38BEAA18B6F0,PinName="WidgetSwitcher_UI",Direction="EGPD_Output",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.WidgetSwitcher"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_1 83B64A6D400F8CF52983F2BA8DF98E31,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=11355BCC4172B64EEA7784B3641F6634,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=True,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=/Script/CoreUObject.Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=/Script/BlueprintGraph.K2Node_Event'"K2Node_Event_0"'
+      Nodes(1)=/Script/BlueprintGraph.K2Node_Event'"K2Node_Event_1"'
+      Nodes(2)=/Script/BlueprintGraph.K2Node_Event'"K2Node_Event_2"'
+      Nodes(3)=/Script/BlueprintGraph.K2Node_ComponentBoundEvent'"K2Node_ComponentBoundEvent_7"'
+      Nodes(4)=/Script/BlueprintGraph.K2Node_ComponentBoundEvent'"K2Node_ComponentBoundEvent_5"'
+      Nodes(5)=/Script/BlueprintGraph.K2Node_ComponentBoundEvent'"K2Node_ComponentBoundEvent_2"'
+      Nodes(6)=/Script/BlueprintGraph.K2Node_ComponentBoundEvent'"K2Node_ComponentBoundEvent_6"'
+      Nodes(7)=/Script/BlueprintGraph.K2Node_VariableGet'"K2Node_VariableGet_0"'
+      Nodes(8)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_2"'
+      Nodes(9)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_0"'
+      Nodes(10)=/Script/BlueprintGraph.K2Node_VariableGet'"K2Node_VariableGet_4"'
+      Nodes(11)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_3"'
+      Nodes(12)=/Script/BlueprintGraph.K2Node_VariableGet'"K2Node_VariableGet_3"'
+      Nodes(13)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_1"'
+      Nodes(14)=/Script/BlueprintGraph.K2Node_VariableGet'"K2Node_VariableGet_2"'
+      bAllowDeletion=False
+      GraphGuid=020B641F44F945DB44820695071B7DEE
+   End Object
+   Begin Object Name="BndEvt__ARAppUI_LibBtn_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         CustomGeneratedFunctionName="BndEvt__ARAppUI_LibBtn_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         NodePosX=-200
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=90FF46214E26D0CF37A3469DEAC90638
+         CustomProperties Pin (PinId=AA0DB558422A72CDF48DEABBB0D08BA1,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_0 316D920C411B7C29E72D0489B75CD22E,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_0"
+         FunctionReference=(MemberName="ExecuteUbergraph_ARAppUI",bSelfContext=True)
+         NodePosX=300
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=FF8DC1544D7AFF3C224AF0BCD0FEA126
+         CustomProperties Pin (PinId=316D920C411B7C29E72D0489B75CD22E,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_FunctionEntry_0 AA0DB558422A72CDF48DEABBB0D08BA1,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=DD5ED3E749559ED6C2BCCB8E1D063B4A,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=E36A42F046A777B523C224ABA716350C,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="self",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.SKEL_ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=AABD84524D3878413BF60882FAD0B63A,PinName="EntryPoint",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="0",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=/Script/CoreUObject.Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=/Script/BlueprintGraph.K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      Nodes(1)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_0"'
+      GraphGuid=938C2E7C44B74F631470879EA4C2BC01
+   End Object
+   Begin Object Name="BndEvt__ARAppUI_MenuBtn_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         CustomGeneratedFunctionName="BndEvt__ARAppUI_MenuBtn_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         NodePosX=-200
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=844F078E4C8D5A42F3D3168E383D0D26
+         CustomProperties Pin (PinId=0AE272A9422302A3F583C4A936174427,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_0 A3945DE343DF75858A023AB59398152B,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_0"
+         FunctionReference=(MemberName="ExecuteUbergraph_ARAppUI",bSelfContext=True)
+         NodePosX=300
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=4469468E44782B6B92BD4E8D6527208D
+         CustomProperties Pin (PinId=A3945DE343DF75858A023AB59398152B,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_FunctionEntry_0 0AE272A9422302A3F583C4A936174427,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=DC5E3BBE4AE1BFFAF3A72DB10E21602F,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=050ADE1F42E3C74F9E3D11BDBE2AA89E,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="self",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.SKEL_ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=99E6ED10433034A858989F9077915B88,PinName="EntryPoint",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="0",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=/Script/CoreUObject.Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=/Script/BlueprintGraph.K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      Nodes(1)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_0"'
+      GraphGuid=066F58514F4438D8078609BE4DFEF31E
+   End Object
+   Begin Object Name="BndEvt__ARAppUI_BackBtn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         CustomGeneratedFunctionName="BndEvt__ARAppUI_BackBtn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         NodePosX=-200
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=7BF897A948A769C573A1D0BA3C18965A
+         CustomProperties Pin (PinId=F593F8754BE6CF574D883AA366EF785E,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_0 7E1412574EE22006194D689A798CDC44,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_0"
+         FunctionReference=(MemberName="ExecuteUbergraph_ARAppUI",bSelfContext=True)
+         NodePosX=300
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=B3D245D547C2CBA8A86F5CB120DB4A1C
+         CustomProperties Pin (PinId=7E1412574EE22006194D689A798CDC44,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_FunctionEntry_0 F593F8754BE6CF574D883AA366EF785E,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=0F2C3D7A4C5431EAFA957A89A46ED77E,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=D4379C3B4355B1A61FB178936EDEC83E,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="self",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.SKEL_ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=F0CEAF4B488924092A7F49A92D33424F,PinName="EntryPoint",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="0",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=/Script/CoreUObject.Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=/Script/BlueprintGraph.K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      Nodes(1)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_0"'
+      GraphGuid=38F006EC4298D4362DC29BA9125DD962
+   End Object
+   Begin Object Name="BndEvt__ARAppUI_StartBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         CustomGeneratedFunctionName="BndEvt__ARAppUI_StartBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature"
+         FunctionReference=(MemberParent=/Script/CoreUObject.Package'"/Script/UMG"',MemberName="OnButtonClickedEvent__DelegateSignature")
+         NodePosX=-200
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=3B4AE55641F667BA7A22B0807644E691
+         CustomProperties Pin (PinId=7D9C379445E43C1659103CBD00BB0599,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_CallFunction_0 512C52E64B7519D74C4647A8E651E4F8,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="K2Node_CallFunction_0"
+         FunctionReference=(MemberName="ExecuteUbergraph_ARAppUI",bSelfContext=True)
+         NodePosX=300
+         NodePosY=-2000
+         bIsIntermediateNode=True
+         NodeGuid=A741EB3849D9B5A7E6D2E2948FE31AFD
+         CustomProperties Pin (PinId=512C52E64B7519D74C4647A8E651E4F8,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(K2Node_FunctionEntry_0 7D9C379445E43C1659103CBD00BB0599,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=D38501914618D354663DBD9EEF899EA0,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=5CE6752443CDEE53726841BC66BB9E85,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="self",PinType.PinSubCategoryObject=/Script/UMG.WidgetBlueprintGeneratedClass'"/Game/Kamonwan/UI/ARAppUI.SKEL_ARAppUI_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=4DD555D54D95DFD50C2C86921AC3E14F,PinName="EntryPoint",PinType.PinCategory="int",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,DefaultValue="0",AutogeneratedDefaultValue="0",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=/Script/CoreUObject.Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=/Script/BlueprintGraph.K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      Nodes(1)=/Script/BlueprintGraph.K2Node_CallFunction'"K2Node_CallFunction_0"'
+      GraphGuid=7DC8115244C536DEDCF603BEFD3A1902
+   End Object
+   WidgetTree="WidgetTree"
+   ParentClass=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"'
+   BlueprintSystemVersion=2
+   UbergraphPages(0)=/Script/Engine.EdGraph'"EventGraph"'
+   CategorySorting(0)="Event Graph"
+   CategorySorting(1)="ARApp UI"
+   LastEditedDocuments(0)=(EditedObjectPath="/Game/Kamonwan/UI/ARAppUI.ARAppUI:EventGraph",SavedViewOffset=(X=-176.100848,Y=160.410714),SavedZoomAmount=0.875000)
+   GeneratedClass=/Script/UMG.WidgetBlueprintGeneratedClass'"ARAppUI_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=F47FD4DD46DE6A0AC2D3CB99A7FDDAA7
+End Object
